@@ -31,11 +31,20 @@ header p {
   text-align: center;
 }
 button {
-  padding: 15px;
-  background-color: #373738;
-  color: white;
+  color: black;
   font-size: 15px;
-  border-radius: 70px;
+  border-radius: 50%;
+  width: 85px;
+  height: 85px;
+}
+.redbutton{
+  background-color: crimson;
+}
+.yellowbutton{
+  background-color: yellow;
+}
+.bluebutton{
+  background-color: turquoise;
 }
 footer {
   background-color: #FFFFFF;
